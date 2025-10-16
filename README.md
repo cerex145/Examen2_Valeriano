@@ -1,7 +1,7 @@
 # 🧰 Stockwise API
 
 API REST desarrollada con **Django + Django REST Framework (DRF)** para la gestión de inventarios.  
-Permite administrar **Productos** y **Categorías**, cumpliendo con todas las funcionalidades solicitadas en la consigna del curso.
+Permite administrar **Productos** y **Categorías**.
 
 ---
 
