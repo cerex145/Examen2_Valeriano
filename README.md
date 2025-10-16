@@ -69,7 +69,6 @@ Representan los artículos o ítems del inventario.
 | GET | /api/products/{id}/ | Muestra detalle de un producto |
 | PUT/PATCH | /api/products/{id}/ | Edita un producto |
 | DELETE | /api/products/{id}/ | Elimina un producto |
-| GET | /api/products/?search=texto | Búsqueda por nombre de producto o categoría |
 
 ---
 
